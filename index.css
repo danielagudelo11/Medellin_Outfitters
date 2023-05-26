@@ -1,0 +1,83 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    height: 100px;
+    justify-content: space-between;
+    background-color: #1a1b1b;
+    text-align: center;
+}
+
+.logo img{
+    height: 100px;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav a{
+    font-weight: 600;
+    padding-right: 10px;
+    color: #f6f6f6;
+}
+
+nav a:hover{
+    color:#268181 ;
+}
+
+.Pie_Pagina{
+    display: flex;
+    width: 100%;
+    background-color: #1a1b1b;
+}
+
+.facebook img{
+    margin: 30px;
+    height: 30px;
+}
+.instagram img{
+    margin: 30px;
+    height: 30px;
+}
+.Twitter img{
+    margin: 30px;
+    height: 30px;
+}
+.Universidad img{
+    margin: 30px;
+    height: 30px;
+}
+
+.redes{
+    display: flex;
+}
+
+.Nosotros{
+    font-family: sans-serif;
+    color: #f6f6f6;
+}
+
+.txt{
+    font-family: sans-serif;
+    color:#268181;
+    font-size: 10pt;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.marca img{
+    height: 100px;
+}
+
+main{
+    position: absolute;
+    background-color: #b0cfcf;
+}
